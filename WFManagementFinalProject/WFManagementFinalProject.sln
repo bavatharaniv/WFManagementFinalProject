@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFManagementFinalProject", "WFManagementFinalProject\WFManagementFinalProject.csproj", "{98864146-AA5D-4CE7-984F-36B9CCAB524F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFM_API", "WFM_API\WFM_API.csproj", "{B9AD4E7B-4AF9-4AA6-B04E-8AC8388BDA23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98864146-AA5D-4CE7-984F-36B9CCAB524F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98864146-AA5D-4CE7-984F-36B9CCAB524F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98864146-AA5D-4CE7-984F-36B9CCAB524F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98864146-AA5D-4CE7-984F-36B9CCAB524F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9AD4E7B-4AF9-4AA6-B04E-8AC8388BDA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9AD4E7B-4AF9-4AA6-B04E-8AC8388BDA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9AD4E7B-4AF9-4AA6-B04E-8AC8388BDA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9AD4E7B-4AF9-4AA6-B04E-8AC8388BDA23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58203782-4EE0-42E6-BE03-99E6CF7EE8B7}
+	EndGlobalSection
+EndGlobal
